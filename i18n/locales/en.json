@@ -1,0 +1,10 @@
+{
+  "activity_end_warn": "This round has ended. You can join the next round!",
+  "ewallet_bind_by_other": "{X} has been bound by other users",
+  "out_of_cash_out_duration_time": "Every day from 22:00 to 11:00 a.m. of the next day is the system maintenance time, and withdrawals cannot be made during this period!",
+  "add_ewallet_first": "Please bind your GCash account first!",
+  "cash_out_every_day_one_time": "One cash withdrawal order allowed only per day!",
+  "cash_out_have_in_pending": "A cash withdrawal order of {X} PHP is under review, please withdraw after the order complete!",
+  "diamond_not_enough": "Insufficient balance of diamond",
+  "cash_not_enough": "Insufficient balance of cash"
+}
